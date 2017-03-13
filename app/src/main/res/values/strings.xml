@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BadooTransactionViewer</string>
+    <string name="encoding">UTF-8</string>
+
+    <string name="ProductsPageTitle">Products</string>
+
+    <string name="transactions_file_name">transactions_1.json</string>
+    <string name="rates_file_name">rates_1.json</string>
+
+    <string name="sku">sku</string>
+    <string name="amount">amount</string>
+    <string name="currency">currency</string>
+
+    <string name="assets_from">from</string>
+    <string name="assets_rate">rate</string>
+    <string name="assets_to">to</string>
+</resources>
